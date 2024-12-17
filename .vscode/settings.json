@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "dart.previewCommitCharacters": true,
+    "dart.enableCompletionCommitCharacters": true,
+    "git.enableSmartCommit": true
+}
